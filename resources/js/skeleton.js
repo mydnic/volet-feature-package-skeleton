@@ -1,6 +1,6 @@
 import { defineCustomElement } from 'vue'
-import VoletFeature from './components/VoletFeature.ce.vue'
+import Skeleton from './components/Skeleton.ce.vue'
 
-const Element = defineCustomElement(VoletFeature)
+const Element = defineCustomElement(Skeleton)
 
 customElements.define('skeleton', Element)
