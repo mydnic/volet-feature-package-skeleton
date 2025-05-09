@@ -1,7 +1,7 @@
 {
   "private": true,
   "type": "module",
-  "name": "sekeleton",
+  "name": "skeleton",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
